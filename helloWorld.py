@@ -1,2 +1,2 @@
-input = input('Please enter name: ')
+input = input('Please enter first and last name: ')
 print(input)
